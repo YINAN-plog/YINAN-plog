@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hello, visitor!  
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 # Hello, I'm YINAN! 👋
 
@@ -18,6 +19,15 @@ I enrolled in this course to:
 - 🖥 **Tech & Coding**: Always excited to explore new technologies and programming tools.  
 
 ![My Profile Picture](profile.jpg)
+
+## 📊 GitHub Stats  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+## 🛠 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+## 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 🌟 GitHub Profile  
 You can check out my GitHub profile [here](https://github.com/YINAN-plog).  
