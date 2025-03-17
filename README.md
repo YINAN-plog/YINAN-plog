@@ -1,6 +1,6 @@
 ## 👋 Hello, visitor!  
 <div align="center">
-  <img src="https://tenor.com/zh-CN/view/chiikawa-usagi-hachiware-chii-kawa-kawaii-gif-12638242408962543069" width="100%" height="200px">
+  <img src="https://github.com/YINAN-plog/YINAN-plog/blob/main/chiikawa-usagi.gif" width="100%" height="200px">
 </div>
 
 
