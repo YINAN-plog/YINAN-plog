@@ -1,5 +1,8 @@
 ## 👋 Hello, visitor!  
-![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<div align="center">
+  <img src="https://tenor.com/zh-CN/view/chiikawa-usagi-hachiware-chii-kawa-kawaii-gif-12638242408962543069" width="100%" height="200px">
+</div>
+
 
 # Hello, I'm YINAN! 👋
 
